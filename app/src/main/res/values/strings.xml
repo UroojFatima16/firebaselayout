@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">firebaseApp</string>
+    <string name="skip">Skip for Now</string>
+    <string name="welcome">Welcome to BOOKMART</string>
+    <string name="create_Account">Create Account</string>
+    <string name="by_signing_">
+By Signing up on BOOKMART, \n you agree to our privacy policy and terms of services
+</string>
+    <string name="coin_heading">Your coins</string>
+    <string name="coin">0</string>
+    <string name="getCoin">Tap to Get Coins</string>
+    <string name="all">All</string>
+    <string name="academic">Academic</string>
+    <string name="gen">General</string>
+    <string name="academic_book">Academic Books</string>
+    <string name="school_img">School_img</string>
+    <string name="context">CONTEXT</string>
+    <string name="day1">day 1</string>
+    <string name="day2">day 2</string>
+    <string name="day3">day 3</string>
+    <string name="day4">day 4</string>
+    <string name="day5">day 5</string>
+    <string name="day6">day 6</string>
+    <string name="day7">day 7</string>
+    <string name="reward">Today\'s reward is ready</string>
+    <string name="dontforget">Don’t  miss a day or you have to start over again</string>
+
+
+
+
+</resources>
